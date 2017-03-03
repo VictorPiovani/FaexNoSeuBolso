@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "727934275069",
+    "firebase_url": "https://faex-no-seu-bolso.firebaseio.com",
+    "project_id": "faex-no-seu-bolso",
+    "storage_bucket": "faex-no-seu-bolso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727934275069:android:1d4fa13fd33bc727",
+        "android_client_info": {
+          "package_name": "faex.edu.br.faexnoseubolso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727934275069-g7e1magb3vosl1988p3lnmc76kdrlngc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyz9iKMY2YfgbNo03cF8pNZMIP0qUNDfQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
